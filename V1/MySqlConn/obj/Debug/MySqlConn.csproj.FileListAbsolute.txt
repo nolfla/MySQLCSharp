@@ -1,0 +1,10 @@
+C:\Users\DESKTOP-3GHD76\source\repos\MySqlConn\MySqlConn\bin\Debug\MySqlConn.exe.config
+C:\Users\DESKTOP-3GHD76\source\repos\MySqlConn\MySqlConn\bin\Debug\MySqlConn.exe
+C:\Users\DESKTOP-3GHD76\source\repos\MySqlConn\MySqlConn\bin\Debug\MySqlConn.pdb
+C:\Users\DESKTOP-3GHD76\source\repos\MySqlConn\MySqlConn\obj\Debug\MySqlConn.csprojAssemblyReference.cache
+C:\Users\DESKTOP-3GHD76\source\repos\MySqlConn\MySqlConn\obj\Debug\MySqlConn.Form1.resources
+C:\Users\DESKTOP-3GHD76\source\repos\MySqlConn\MySqlConn\obj\Debug\MySqlConn.Properties.Resources.resources
+C:\Users\DESKTOP-3GHD76\source\repos\MySqlConn\MySqlConn\obj\Debug\MySqlConn.csproj.GenerateResource.cache
+C:\Users\DESKTOP-3GHD76\source\repos\MySqlConn\MySqlConn\obj\Debug\MySqlConn.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP-3GHD76\source\repos\MySqlConn\MySqlConn\obj\Debug\MySqlConn.exe
+C:\Users\DESKTOP-3GHD76\source\repos\MySqlConn\MySqlConn\obj\Debug\MySqlConn.pdb
